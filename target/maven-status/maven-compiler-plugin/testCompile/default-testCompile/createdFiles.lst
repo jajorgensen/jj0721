@@ -1,0 +1,6 @@
+test\charge\ChargeCalculatorTest.class
+test\charge\ChargePolicyLookupCSVTest.class
+test\tool\ToolLookupCSVTest.class
+test\dates\RelativeHolidayTest.class
+test\dates\DayCounterTest.class
+test\RentalTest.class
